@@ -1,10 +1,8 @@
 
-
 <section class="comment">
 <!-- Baidu Button BEGIN -->
     <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
-        <span class="bds_more">分享到：</span>
-        <a class="bds_none"></a>
+        <span>分享到：</span>
         <a class="bds_tsina"></a>
         <a class="bds_tqq"></a>
         <a class="bds_t163"></a>
