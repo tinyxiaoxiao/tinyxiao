@@ -8,8 +8,9 @@ tags:
 - markdown
 - html5
 ---
-##轻量级文档写作：
-###日常任务重经常的时间浪费在 调格式word wps 等个版本之间的兼容性上。直到遇到了 markdown标记性语言后顿时眼前一亮 简洁的语法简直让人爱不释手 [markdown教程](http://wowubuntu.com/markdown/index.html)
+###轻量级文档写作：
+>日常任务重经常的时间浪费在 调格式word wps 等个版本之间的兼容性上。直到遇到了 markdown标记性语言后顿时眼前一亮 简洁的语法简直让人爱不释手 
+[markdown教程](http://wowubuntu.com/markdown/index.html)
 
 ###常用的文件查看方式
 - 邮件
@@ -22,7 +23,7 @@ tags:
 >markdown 恰恰能做到！
 Markdown是这里要介绍的第一个轻量级标记语言。它面向表现，所见即所得。它非常简单，以至于简单到简陋的程度。其作者John Gruber是一个狂热果粉，不难想象他对这个语言简约程度的强迫症程度。
 
-#用Pandoc处理Markdown 
+##用Pandoc处理Markdown 
 [pandoc](http://johnmacfarlane.net/pandoc/)文档处理的瑞士军刀
 
 >比较常见的演示手段是用LaTeX Beamer生成若干幻灯片，然后用PDF阅读器全屏播放。
