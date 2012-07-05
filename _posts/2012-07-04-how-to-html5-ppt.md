@@ -56,5 +56,21 @@ PDF via LaTeX
 ####[download here](http://code.google.com/p/pandoc/downloads/detail?name=pandoc-1.9.4.2-setup.exe&can=2&q=)
 ##[demo](http://johnmacfarlane.net/pandoc/demos.html)
 
+>HTML slide shows:
+pandoc -s --mathml -i -t dzslides SLIDES -o example16a.html
+pandoc -s --webtex -i -t slidy SLIDES -o example16b.html
+pandoc -s --self-contained --webtex -i -t s5 SLIDES -o example16c.html
+pandoc -s --self-contained --mathjax -i -t slideous SLIDES -o example16d.html
+
+##制作幻灯片工具
+ 
+[landslide  markdown ](https://github.com/adamzap)landslide
+ 
+[sozi svg](http://sozi.baierouge.fr/wiki/en:welcome)
+ 
+[impress.js](http://bartaz.github.com/impress.js)
+ 
+[prezi flash   ]( http://prezi.com/)
+
 
 
