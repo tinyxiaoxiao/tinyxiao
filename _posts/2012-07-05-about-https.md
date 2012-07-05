@@ -2,11 +2,13 @@
 layout: post
 title: HTTPS 详解
 categories:
--Web development
+- Web development
 tags:
 - https
 - SSL
 ---
+
+
 ##了解https 之前肯定要先了解http协议又名
 - [Hypertext Transfer Protocol](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
