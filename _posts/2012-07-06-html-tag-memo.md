@@ -47,6 +47,7 @@ alert("hi just test it~!");
 
 定义:
  `function warning(something)
+
 {
 alert("This is your final warning~!");
 return something;
@@ -55,7 +56,7 @@ return something;
 
 - 对象object： (.)访问属性或方法
 
-`var Robot = new Object();
+>var Robot = new Object();
 Robot.metal = "Titanium"; 
 为空对象 Robot 添加一个 metal属性；
 Robot.killALLHumans = function()
@@ -63,18 +64,18 @@ Robot.killALLHumans = function()
 {
 alert("Exterminite！");
 };
-Robot.killALLHumans();`
+Robot.killALLHumans();
 
 - **else you can**:
 
-`var Robot = 
+>var Robot = 
 {
 metal: "Titanium",
 killALLHumans: function()
 {
 ...;
 }
-};` 
+};`
 
 
 
