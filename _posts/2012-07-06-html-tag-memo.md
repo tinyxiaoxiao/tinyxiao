@@ -43,7 +43,9 @@ alert("hi just test it~!");
 - if while  for  == vs = 
 - 函数 function
 
-> 定义:
+
+
+定义:
  `function warning(something)
 {
 alert("This is your final warning~!");
@@ -55,14 +57,13 @@ return something;
 
 `var Robot = new Object();
 Robot.metal = "Titanium"; 
->为空对象 Robot 添加一个 metal属性；
-Robot.killALLHumans = function() 
->添加一个方法
+为空对象 Robot 添加一个 metal属性；
+Robot.killALLHumans = function()
+添加一个方法
 {
 alert("Exterminite！");
 };
 Robot.killALLHumans();`
-
 
 - **else you can**:
 
