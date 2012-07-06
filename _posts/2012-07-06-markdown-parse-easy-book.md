@@ -1,6 +1,6 @@
 ---
 layout: post
-title:markdown简易语法
+title: markdown简易语法
 categories:
 - tools
 tags:
