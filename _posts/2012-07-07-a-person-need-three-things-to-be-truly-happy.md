@@ -1,7 +1,8 @@
 ---
 layout: post
 tile: A person just needs three things to be truly happy in this world
-categories:Life
+categories:
+- Life
 tags:
 - life
 - feeling
