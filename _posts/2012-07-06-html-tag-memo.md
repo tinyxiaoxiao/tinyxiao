@@ -43,27 +43,29 @@ alert("hi just test it~!");
 - if while  for  == vs = 
 - 函数 function
 
->` 定义:
- function warning(something)
+> 定义:
+ `function warning(something)
 {
 alert("This is your final warning~!");
 return something;
-}
-调用warning(something);
-`
+}`
+调用 warning(something);
+
 - 对象object： (.)访问属性或方法
 
 `var Robot = new Object();
 Robot.metal = "Titanium"; 
 >为空对象 Robot 添加一个 metal属性；
 Robot.killALLHumans = function() 
-
 >添加一个方法
 {
 alert("Exterminite！");
 };
 Robot.killALLHumans();`
+
+
 - **else you can**:
+
 `var Robot = 
 {
 metal: "Titanium",
@@ -72,6 +74,9 @@ killALLHumans: function()
 ...;
 }
 };` 
+
+
+
 
 
 
