@@ -76,9 +76,24 @@ killALLHumans: function()
 }      
 };      
 
+##DOM 文档对象类型 Document Object Model
+每个元素都成为 一个节点 
+- 元素节点 ---标签
+- 文本节点<> ---文本
+- 属性节点；  
+`<p id ="qniqueElement">   
+.   
+.   
+.   
+</p>`
 
+####CSS
+> `#uniqueElement   # ID 选择符
+{   
+color：blue；     
+}`
 
-
+####Javascript ： getElementByID or getElementByTagName
 
 
 
