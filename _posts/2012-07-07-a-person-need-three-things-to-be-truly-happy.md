@@ -9,7 +9,7 @@ tags:
 ---
 
 ##A person just needs three things to be truly happy in this world : 
-![](http://tinyxiaoxiao.github.com/images/life.jpg)
+![](/images/life.jpg)
 ##- someone to love
 ##- something to do 
 ##- something to hope for . 
