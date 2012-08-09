@@ -11,9 +11,9 @@ tags:
 ###WMCT 实验室 SVN 服务器使用指南
 
 
->####1. windows用户安装项目组群共享的tortiseSVN 或[点击下载](http://dl.pconline.com.cn/download/53122.html)[](http://tortoisesvn.net/downloads.html)
-   linux [RabbitVCS](www.rabbitvcs.org/ )也有相应版本，自行搜索下载
-   mac 也有相应版本，自行搜索下载 [Versions - Mac Subversion Client SVN](versionsapp.com)
+>####windows用户安装项目组群共享的tortiseSVN 或[点击下载](http://dl.pconline.com.cn/download/53122.html)[](http://tortoisesvn.net/downloads.html)
+   * linux 用户 相应版本，自行搜索下载[RabbitVCS](http://www.rabbitvcs.org/ )有
+   * mac 也有相应版本，自行搜索下载 [Versions - Mac Subversion Client SVN](http://versionsapp.com)
 
 >####2. WMCT代码仓库 介绍 
     地址:svn://58.194.170.76/
